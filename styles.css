@@ -2,6 +2,8 @@
   margin: 0;
   padding: 0;
   box-sizing: inherit;
+  scroll-behavior: smooth;
+
   /* border: 1px solid black; */
 }
 body {
